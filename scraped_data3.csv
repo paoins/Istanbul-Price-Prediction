@@ -1,0 +1,251 @@
+price,room_count,toilet_count,size,heating_type,building_age,building_type,neighborhood,floor
+2.475.000,2 + 1,1,/ 95 m2,Kombi,Sıfır,Daire,Beylikdüzü,2. Kat
+1.300.000,2 + 1,1,/ 105 m2,Kombi,2,Daire,Esenyurt,Bahçe Katı
+1.375.000,1 + 1,1,/ 75 m2,Kombi,3,Daire,Esenyurt,Bahçe Katı
+1.335.000,1 + 1,1,/ 65 m2,Kombi,1,Daire,Esenyurt,3. Kat
+1.575.000,2 + 1,1,/ 85 m2,Kombi,1,Daire,Esenyurt,3. Kat
+985.000,1 + 0,1,/ 40 m2,Kombi,9,Daire,Esenyurt,Ara Kat
+2.270.000,2 + 1,1,/ 75 m2,Kombi,7,Daire,Beylikdüzü,Zemin
+15.500.000,4 + 1,2,/ 115 m2,Kombi,Sıfır,Daire,Üsküdar,Çatı Katı
+20.000.000,5 + 2,2,/ 180 m2,Yerden Isıtma,Sıfır,Daire,Üsküdar,Çatı Katı
+9.750.000,3 + 1,2,/ 81 m2,Kombi,32,Daire,Adalar,3. Kat
+4.350.000,3 + 1,1,/ 132 m2,Kombi,25,Daire,Beylikdüzü,6. Kat
+13.750.000,2 + 1,2,/ 73 m2,Merkezi (Pay Ölçer),Sıfır,Daire,Kadıköy,11. Kat
+13.900.000,2 + 1,1,/ 75 m2,Kombi,5,Daire,Kadıköy,4. Kat
+2.600.000,2 + 1,1,/ 90 m2,Kombi,26,Daire,Bağcılar,Yüksek Giriş
+11.850.000,3 + 1,2,/ 100 m2,Merkezi (Pay Ölçer),3,Daire,Zeytinburnu,5. Kat
+1.370.000,1 + 1,1,/ 85 m2,Kombi,8,Daire,Beylikdüzü,6. Kat
+7.500.000,3 + 1,1,/ 100 m2,Kombi,38,Daire,Kadıköy,4. Kat
+1.579.999,2,N/A,N/A,Uygun,Kombi,Daire,Esenyurt,4 Yaşında
+2.884.000,1,N/A,N/A,Uygun,Kombi,Daire,Beylikdüzü,Sıfır Bina
+4.790.000,1,N/A,N/A,Uygun değil,Kombi,Daire,Beylikdüzü,5 Yaşında
+5.045.000,2,N/A,N/A,Uygun değil,Kombi,Daire,Beylikdüzü,5 Yaşında
+3.399.000,2 + 1,1,/ 100 m2,Kombi,Sıfır,Daire,Beylikdüzü,2. Kat
+3.190.000,5 + 1,1,/ 185 m2,Kombi,Sıfır,Daire,Esenyurt,Giriş Katı
+2.580.000,2 + 1,1,/ 90 m2,Kombi,2,Daire,Esenyurt,Giriş Katı
+9.799.000,3 + 1,2,/ 135 m2,Kombi,5,Daire,Beylikdüzü,2. Kat
+999.000,2 + 1,1,/ 100 m2,Kombi,2,Daire,Esenyurt,Bahçe Katı
+7.599.999,3 + 2,2,/ 255 m2,Kombi,Sıfır,Daire,Beylikdüzü,3. Kat
+1.249.999,1,N/A,N/A,Uygun,Merkezi,Daire,Esenyurt,3 Yaşında
+49.750.000,6 + 3,6,/ 400 m2,Doğalgaz,Kombi,Villa,Büyükçekmece,Sıfır Bina
+4.050.000,2,N/A,N/A,Uygun,Merkezi,Residence,Esenyurt,5 Yaşında
+1.149.000,2 + 1,2,/ 100 m2,Kombi,3,Daire,Esenyurt,Bahçe Katı
+8.200.000,3 + 1,1,/ 63 m2,Kombi,38,Daire,Adalar,2. Kat
+3.899.999,2 + 1,1,/ 95 m2,Kombi,4,Daire,Beylikdüzü,3. Kat
+12.800.000,2,N/A,N/A,Uygun değil,Merkezi,Daire,Küçükçekmece,Sıfır Bina
+19.500.000,1 + 1,1,/ 83 m2,Merkezi (Pay Ölçer),5,Residence,Şişli,Ara Kat
+3.500.000,1,N/A,N/A,Uygun,Kombi,Daire,Pendik,31 Yaşında
+123.500.000,5 + 1,5,/ 290 m2,Yerden Isıtma,Sıfır,Daire,Üsküdar,Bahçe Katı
+1.259.999,2 + 1,1,/ 100 m2,Kombi,3,Daire,Esenyurt,Bahçe Katı
+2.499.999,2 + 1,1,/ 105 m2,Kombi,Sıfır,Daire,Esenyurt,2. Kat
+2.975.000,1,N/A,N/A,Uygun,Kombi,Daire,Esenyurt,11 Yaşında
+9.800.000,2,N/A,N/A,Uygun,Kombi,Daire,Pendik,20 Yaşında
+7.750.000,2,N/A,N/A,Uygun,Yerden,Daire,Şile,Sıfır Bina
+19.500.000,3,N/A,N/A,Uygun,Yerden,Villa,Şile,Sıfır Bina
+14.950.000,3 + 1,2,/ 110 m2,Yerden Isıtma,Sıfır,Daire,Üsküdar,1. Kat
+2.699.999,2 + 1,1,/ 105 m2,Kombi,Sıfır,Daire,Beylikdüzü,2. Kat
+3.125.000,2 + 1,1,/ 85 m2,Kombi,28,Daire,Zeytinburnu,3. Kat
+20.500.000,3 + 1,2,/ 140 m2,Merkezi (Pay Ölçer),35,Daire,Beşiktaş,3. Kat
+3.000.000,2 + 1,2,/ 105 m2,Kombi,Sıfır,Daire,Beylikdüzü,2. Kat
+2.349.999,1,N/A,N/A,Uygun,Kombi,Daire,Beylikdüzü,Sıfır Bina
+3.599.000,3 + 1,2,/ 185 m2,Kombi,Sıfır,Daire,Beylikdüzü,3. Kat
+2.199.999,2 + 1,1,/ 110 m2,Kombi,Sıfır,Daire,Beylikdüzü,Ara Kat
+3.899.999,3 + 1,2,/ 145 m2,Kombi,Sıfır,Daire,Beylikdüzü,1. Kat
+25.000.000,3 + 1,2,/ 140 m2,Merkezi,31,Daire,Bakırköy,2. Kat
+19.200.000,3 + 1,2,/ 120 m2,Merkezi,10,Daire,Bakırköy,Bahçe Katı
+3.500.000,2 + 1,1,/ 108 m2,Kombi,31,Daire,Şişli,En Üst Kat
+5.249.000,5 + 2,3,/ 215 m2,Kombi,Sıfır,Daire,Beylikdüzü,5. Kat
+5.649.000,3 + 2,1,/ 220 m2,Kombi,Sıfır,Daire,Beylikdüzü,4. Kat
+3.399.900,2 + 1,2,/ 105 m2,Kombi,7,Daire,Esenyurt,2. Kat
+7.950.000,1 + 1,1,/ 70 m2,Kombi,15,Daire,Maltepe,6. Kat
+49.500.000,5 + 2,3,/ 270 m2,Doğalgaz,Kombi,Villa,Beşiktaş,35 Yaşında
+35.000.000,2,N/A,N/A,Uygun,Merkezi,Daire,Beşiktaş,20 Yaşında
+79.000.000,5 + 1,3,/ 250 m2,Yerden Isıtma,31,Daire,Beşiktaş,6. Kat
+5.450.000,2 + 1,1,/ 100 m2,Kombi,1,Daire,Beylikdüzü,4. Kat
+76.000.000,5,N/A,N/A,Uygun değil,Yerden,Villa,Büyükçekmece,16 Yaşında
+2.370.000,3,N/A,N/A,Uygun,Kombi,Daire,Beylikdüzü,3 Yaşında
+2.999.000,3 + 1,1,/ 120 m2,Kombi,5,Daire,Esenyurt,2. Kat
+4.749.000,3 + 2,2,/ 175 m2,Kombi,Sıfır,Daire,Beylikdüzü,4. Kat
+10.500.000,2,N/A,N/A,Doğalgaz,Kombi,Daire,Adalar,25 Yaşında
+2.500.000,1,N/A,N/A,Uygun,Kombi,Daire,Esenyurt,16 Yaşında
+18.750.000,3 + 1,1,/ 125 m2,Kombi,5,Daire,Kadıköy,9. Kat
+17.900.000,4 + 1,4,/ 191 m2,Isıtma Yok,34,Daire,Adalar,3. Kat
+8.900.000,1 + 1,1,/ 46 m2,Merkezi,15,Daire,Kadıköy,6. Kat
+1.700.000,1,N/A,N/A,Uygun değil,Doğalgaz,Daire,Avcılar,26 Yaşında
+61.000.000,4 + 1,3,/ 196 m2,Yerden Isıtma,Sıfır,Daire,Üsküdar,1. Kat
+45.000.000,2,N/A,N/A,Doğalgaz,Merkezi,Daire,Üsküdar,Sıfır Bina
+44.750.000,3 + 1,2,/ 179 m2,Yerden Isıtma,Sıfır,Daire,Üsküdar,1. Kat
+88.000.000,5 + 1,6,/ 295 m2,Yerden Isıtma,Sıfır,Daire,Üsküdar,3. Kat
+38.000.000,2 + 1,2,/ 110 m2,Yerden Isıtma,1,Daire,Üsküdar,Giriş Katı
+3.120.000,3 + 1,3,/ 125 m2,Kat Kaloriferi,10,Daire,Esenyurt,Ara Kat
+4.290.000,2 + 1,1,/ 90 m2,Kombi,7,Daire,Bahçelievler,3. Kat
+14.500.000,4 + 2,3,/ 153 m2,Kombi,Sıfır,Daire,Maltepe,4. Kat
+13.900.000,4 + 1,2,/ 126 m2,Kombi,Sıfır,Daire,Maltepe,4. Kat
+12.000.000,5 + 2,3,/ 178 m2,Kombi,12,Daire,Maltepe,4. Kat
+8.950.000,3 + 1,2,/ 128 m2,Kombi,24,Daire,Maltepe,1. Kat
+4.650.000,1,N/A,N/A,Uygun,Merkezi,Daire,Pendik,10 Yaşında
+5.250.000,1,N/A,N/A,Uygun,Kombi,Daire,Kadıköy,31 Yaşında
+1.650.000,2 + 1,1,/ 70 m2,Kombi,6,Daire,Arnavutköy,Bahçe Katı
+2.250.000,2 + 1,1,/ 10 m2,Kombi,6,Daire,Arnavutköy,Yüksek Giriş
+260.000.000,3 + 2,2,/ 271 m2,Kombi,50,Residence,Beşiktaş,4. Kat
+34.000.000,3 + 1,2,/ 170 m2,Kombi,35,Daire,Beşiktaş,2. Kat
+82.000.000,2 + 1,2,/ 150 m2,Merkezi (Pay Ölçer),2,Residence,Beşiktaş,6. Kat
+91.000.000,3 + 1,3,/ 160 m2,Merkezi (Pay Ölçer),Sıfır,Residence,Beşiktaş,21 ve üzeri
+80.000.000,3 + 1,3,/ 280 m2,Merkezi (Pay Ölçer),15,Residence,Beşiktaş,21 ve üzeri
+12.300.000,1 + 1,1,/ 76 m2,Merkezi (Pay Ölçer),8,Residence,Beşiktaş,4. Kat
+85.000.000,2 + 1,2,/ 141 m2,Merkezi (Pay Ölçer),6,Residence,Beşiktaş,12. Kat
+80.000.000,2 + 1,2,/ 350 m2,Merkezi (Pay Ölçer),15,Residence,Beşiktaş,20. Kat
+8.500.000,1,N/A,N/A,Uygun,Merkezi,Daire,Kadıköy,6 Yaşında
+95.000.000,2 + 1,2,/ 130 m2,Merkezi (Pay Ölçer),6,Residence,Beşiktaş,8. Kat
+5.950.000,2 + 1,1,/ 70 m2,Kombi,11,Daire,Ataşehir,Yüksek Giriş
+8.050.000,3,N/A,N/A,Uygun,Merkezi,Daire,Bahçelievler,Sıfır Bina
+6.500.000,3 + 1,2,/ 145 m2,Kombi,9,Daire,Büyükçekmece,3. Kat
+5.575.000,1,N/A,N/A,Uygun,Kombi,Daire,Bahçelievler,1 Yaşında
+8.350.000,2 + 1,2,/ 90 m2,Kombi,Sıfır,Daire,Maltepe,4. Kat
+6.500.000,2 + 1,2,/ 125 m2,Kombi,11,Daire,Üsküdar,2. Kat
+58.500.000,5 + 12,3,/ 350 m2,Doğalgaz,Kombi,Villa,Sarıyer,26 Yaşında
+46.350.000,4 + 2,3,/ 288 m2,Doğalgaz,Yerden,Villa,Sarıyer,12 Yaşında
+28.500.000,3 + 1,2,/ 150 m2,Yerden Isıtma,12,Daire,Sarıyer,Bahçe Katı
+5.600.000,1,N/A,N/A,Uygun,Kombi,Daire,Eyüpsultan,1 Yaşında
+19.250.000,3 + 1,2,/ 88 m2,Kombi,4,Daire,Kadıköy,3. Kat
+7.300.000,2 + 1,2,/ 80 m2,Merkezi (Pay Ölçer),5,Residence,Kağıthane,4. Kat
+3.330.000,2 + 1,1,/ 65 m2,Kombi,6,Daire,Şişli,1. Kat
+10.200.000,3 + 1,1,/ 90 m2,Doğalgaz,Kombi,Müstakil Ev,Beykoz,35 Yaşında
+3.350.000,2 + 1,1,/ 100 m2,Kombi,Sıfır,Daire,Esenyurt,Ara Kat
+2.900.000,2 + 1,2,/ 80 m2,Kombi,7,Daire,Esenyurt,3. Kat
+2.050.000,2 + 1,1,/ 85 m2,Kombi,15,Daire,Gaziosmanpaşa,Kot 1
+71.000.000,8 + 2,4,/ 450 m2,Doğalgaz,Kombi,Villa,Üsküdar,16 Yaşında
+4.250.000,2 + 1,1,/ 128 m2,Kombi,15,Daire,Esenyurt,16. Kat
+2.350.000,1 + 1,1,/ 65 m2,Kombi,15,Daire,Esenyurt,3. Kat
+3.675.000,2 + 1,1,/ 88 m2,Kombi,30,Daire,Zeytinburnu,3. Kat
+1.800.000,1 + 1,1,/ 70 m2,Kombi,40,Daire,Fatih,Yüksek Giriş
+4.750.000,3 + 1,2,/ 140 m2,Kombi,15,Daire,Büyükçekmece,2. Kat
+6.750.000,2 + 1,1,/ 75 m2,Kombi,Sıfır,Daire,Maltepe,Bahçe Katı
+3.975.000,1,N/A,N/A,Uygun değil,Kombi,Daire,Beykoz,26 Yaşında
+12.000.000,3,N/A,N/A,Uygun,Kombi,Daire,Başakşehir,""
+15.000.000,2,N/A,N/A,Uygun,Merkezi,Daire,Beylikdüzü,""
+8.300.000,3 + 1,2,/ 129 m2,Kombi,11,Daire,Eyüpsultan,""
+7.900.000,1 + 1,1,/ 61 m2,Yerden Isıtma,6,Daire,Eyüpsultan,""
+8.250.000,3 + 1,1,/ 120 m2,Kombi,20,Daire,Eyüpsultan,""
+14.650.000,1 + 1,1,/ 68 m2,Merkezi,11,Residence,Ataşehir,""
+2.200.000,3 + 1,1,/ 110 m2,Kombi,51,Daire,Küçükçekmece,""
+22.000.000,4 + 1,2,/ 165 m2,Merkezi (Pay Ölçer),50,Daire,Şişli,""
+3.975.000,1 + 1,1,/ 55 m2,Kombi,7,Daire,Maltepe,2. Kat
+2.800.000,2 + 1,1,/ 72 m2,Kombi,17,Daire,Ümraniye,Bahçe Katı
+3.975.000,1 + 1,1,/ 55 m2,Kombi,7,Daire,Maltepe,2. Kat
+2.800.000,2 + 1,1,/ 72 m2,Kombi,17,Daire,Ümraniye,Bahçe Katı
+18.500.000,3 + 1,2,/ 90 m2,Kombi,Sıfır,Daire,Kadıköy,8. Kat
+8.500.000,5 + 2,3,/ 220 m2,Kombi,9,Daire,Pendik,En Üst Kat
+3.250.000,2 + 1,2,/ 100 m2,Kombi,14,Daire,Pendik,Bahçe Katı
+6.950.000,3 + 1,2,/ 120 m2,Kombi,27,Daire,Maltepe,2. Kat
+3.850.000,2 + 1,1,/ 70 m2,Kombi,7,Daire,Sancaktepe,2. Kat
+5.200.000,2 + 1,1,/ 82 m2,Kombi,40,Daire,Bahçelievler,1. Kat
+5.850.000,3,N/A,N/A,Uygun,Kombi,Daire,Sultanbeyli,Sıfır Bina
+4.350.000,2 + 1,1,/ 80 m2,Kombi,14,Daire,Ataşehir,Yüksek Giriş
+4.500.000,2 + 1,1,/ 80 m2,Kombi,Sıfır,Daire,Sultanbeyli,Ara Kat
+7.500.000,2,N/A,N/A,Uygun,Kombi,Daire,Kadıköy,31 Yaşında
+9.750.000,3,N/A,N/A,Uygun,Kombi,Villa,Şile,21 Yaşında
+5.500.000,1,N/A,N/A,Uygun,Yerden,Daire,Şile,Sıfır Bina
+5.950.000,2,N/A,N/A,Uygun,Yerden,Daire,Şile,Sıfır Bina
+4.950.000,1,N/A,N/A,Uygun,Kombi,Daire,Şile,5 Yaşında
+6.400.000,3,N/A,N/A,Uygun,Isıtma,Villa,Şile,26 Yaşında
+9.250.000,3,N/A,N/A,Uygun,Kombi,Müstakil Ev,Şile,31 Yaşında
+5.850.000,2,N/A,N/A,Uygun,Yerden,Daire,Şile,Sıfır Bina
+9.250.000,3,N/A,N/A,Uygun,Kombi,Müstakil Ev,Şile,31 Yaşında
+5.850.000,2,N/A,N/A,Uygun,Yerden,Daire,Şile,Sıfır Bina
+7.250.000,2,N/A,N/A,Uygun,Kombi,Daire,Şile,11 Yaşında
+14.200.000,3,N/A,N/A,Uygun,Yerden,Villa,Şile,Sıfır Bina
+3.700.000,2,N/A,N/A,Uygun değil,Kombi,Daire,Esenyurt,11 Yaşında
+18.500.000,6,N/A,N/A,Uygun değil,Kombi,Villa,Şile,5 Yaşında
+6.575.000,2,N/A,N/A,Uygun,Kombi,Daire,Şile,4 Yaşında
+4.000.000,1,N/A,N/A,Uygun değil,Kombi,Daire,Şile,26 Yaşında
+5.900.000,2,N/A,N/A,Uygun,Kombi,Daire,Şile,4 Yaşında
+6.500.000,1,N/A,N/A,Uygun değil,Kombi,Daire,Şile,3 Yaşında
+5.000.000,1,N/A,N/A,Uygun,Kombi,Daire,Şile,11 Yaşında
+3.600.000,1,N/A,N/A,Uygun,Kombi,Daire,Şile,21 Yaşında
+14.450.000,4,N/A,N/A,Uygun,Kombi,Villa,Şile,Sıfır Bina
+7.500.000,2,N/A,N/A,Uygun değil,Kombi,Daire,Şile,11 Yaşında
+47.000.000,12 + 5,5,/ 256 m2,Doğalgaz,Kombi,Bina,Beşiktaş,23 Yaşında
+2.400.000,2 + 1,1,/ 80 m2,Kombi,15,Daire,Bahçelievler,Giriş Katı
+20.500.000,3 + 1,2,/ 135 m2,Merkezi (Pay Ölçer),35,Daire,Beşiktaş,3. Kat
+5.200.000,2 + 1,1,/ 70 m2,Kombi,Sıfır,Daire,Maltepe,Bodrum
+16.000.000,3 + 1,2,/ 105 m2,Kombi,Sıfır,Daire,Kadıköy,9. Kat
+20.500.000,3 + 1,2,/ 135 m2,Merkezi (Pay Ölçer),35,Daire,Beşiktaş,3. Kat
+5.200.000,2 + 1,1,/ 70 m2,Kombi,Sıfır,Daire,Maltepe,Bodrum
+16.000.000,3 + 1,2,/ 105 m2,Kombi,Sıfır,Daire,Kadıköy,9. Kat
+11.750.000,2 + 1,1,/ 90 m2,Yerden Isıtma,Sıfır,Daire,Üsküdar,2. Kat
+53.000.000,5 + 2,5,/ 400 m2,Doğalgaz,Kombi,Villa,Beykoz,14 Yaşında
+28.000.000,2 + 0,1,/ 130 m2,Merkezi,10,Residence,Bakırköy,8. Kat
+13.000.000,3 + 1,1,/ 115 m2,Merkezi,31,Daire,Bakırköy,5. Kat
+10.900.000,3 + 1,2,/ 140 m2,Merkezi,50,Daire,Şişli,3. Kat
+2.080.000,2 + 1,1,/ 100 m2,Kombi,25,Daire,Sultanbeyli,1. Kat
+3.900.000,2 + 1,1,/ 80 m2,Kombi,10,Daire,Kağıthane,Yüksek Giriş
+6.750.000,2 + 1,1,/ 65 m2,Kombi,4,Daire,Beşiktaş,3. Kat
+3.450.000,2 + 1,1,/ 70 m2,Kombi,30,Daire,Şişli,3. Kat
+5.500.000,2 + 1,1,/ 80 m2,Kombi,15,Daire,Eyüpsultan,2. Kat
+3.800.000,1 + 1,1,/ 60 m2,Kombi,5,Daire,Eyüpsultan,Yüksek Giriş
+23.950.000,3 + 1,2,/ 90 m2,Kombi,9,Daire,Kadıköy,3. Kat
+17.750.000,3 + 1,2,/ 100 m2,Merkezi (Pay Ölçer),4,Daire,Kadıköy,4. Kat
+7.750.000,1 + 1,1,/ 47 m2,Kombi,9,Daire,Kadıköy,Yüksek Giriş
+8.750.000,1,N/A,N/A,Uygun,Merkezi,Daire,Bakırköy,4 Yaşında
+3.750.000,1,N/A,N/A,Uygun,Kombi,Daire,Arnavutköy,Sıfır Bina
+3.750.000,1,N/A,N/A,Uygun,Kombi,Daire,Arnavutköy,Sıfır Bina
+2.000.000,1,N/A,N/A,Uygun değil,Kombi,Daire,Arnavutköy,5 Yaşında
+9.750.000,2 + 1,1,/ 70 m2,Kombi,Sıfır,Residence,Beykoz,Giriş Katı
+7.500.000,2 + 1,1,/ 78 m2,Kombi,Sıfır,Daire,Maltepe,1. Kat
+11.000.000,4 + 2,3,/ 180 m2,Kombi,10,Daire,Maltepe,5. Kat
+5.850.000,2 + 1,1,/ 87 m2,Merkezi (Pay Ölçer),10,Daire,Maltepe,Yüksek Giriş
+75.000.000,2 + 1,2,/ 140 m2,Merkezi (Pay Ölçer),15,Residence,Beşiktaş,3. Kat
+14.000.000,3 + 1,1,/ 94 m2,Kombi,8,Daire,Kadıköy,7. Kat
+2.400.000,1,N/A,N/A,Doğalgaz,Kombi,Daire,Büyükçekmece,20 Yaşında
+8.950.000,4 + 1,1,/ 165 m2,Kombi,19,Daire,Üsküdar,1. Kat
+5.100.000,1,N/A,N/A,Doğalgaz,Kombi,Daire,Üsküdar,45 Yaşında
+17.000.000,2 + 1,2,/ 80 m2,Merkezi (Pay Ölçer),Sıfır,Residence,Şişli,9. Kat
+17.500.000,2 + 1,2,/ 80 m2,Merkezi (Pay Ölçer),1,Residence,Şişli,8. Kat
+8.000.000,2 + 1,1,/ 80 m2,Kombi,5,Daire,Şişli,2. Kat
+81.500.000,2 + 1,2,/ 120 m2,Merkezi (Pay Ölçer),4,Residence,Beşiktaş,12. Kat
+32.000.000,2 + 1,2,/ 100 m2,Merkezi (Pay Ölçer),Sıfır,Residence,Şişli,4. Kat
+17.000.000,1 + 1,1,/ 60 m2,Merkezi (Pay Ölçer),Sıfır,Residence,Şişli,21 ve üzeri
+23.000.000,2 + 1,2,/ 110 m2,Merkezi (Pay Ölçer),2,Residence,Şişli,21 ve üzeri
+21.250.000,2 + 1,2,/ 80 m2,Merkezi (Pay Ölçer),3,Residence,Şişli,9. Kat
+26.000.000,2 + 1,2,/ 85 m2,Merkezi (Pay Ölçer),2,Residence,Şişli,21 ve üzeri
+54.000.000,3 + 1,3,/ 212 m2,Merkezi (Pay Ölçer),9,Residence,Beşiktaş,6. Kat
+68.000.000,4 + 1,3,/ 280 m2,Merkezi (Pay Ölçer),15,Residence,Beşiktaş,21 ve üzeri
+85.000.000,2 + 1,2,/ 130 m2,Merkezi (Pay Ölçer),6,Residence,Beşiktaş,3. Kat
+115.000.000,4 + 1,4,/ 370 m2,Merkezi (Pay Ölçer),10,Daire,Beşiktaş,18. Kat
+165.000.000,3 + 1,3,/ 230 m2,Merkezi (Pay Ölçer),6,Residence,Beşiktaş,9. Kat
+160.000.000,4 + 1,4,/ 223 m2,Merkezi (Pay Ölçer),5,Residence,Beşiktaş,5. Kat
+8.500.000,4 + 1,2,/ 120 m2,Kombi,Sıfır,Daire,Maltepe,4. Kat
+3.650.000,3 + 1,1,/ 110 m2,Kombi,28,Daire,Maltepe,11. Kat
+12.250.000,3 + 1,1,/ 115 m2,Kombi,6,Daire,Maltepe,4. Kat
+6.950.000,2 + 1,1,/ 80 m2,Kombi,6,Daire,Maltepe,4. Kat
+85.000.000,2,N/A,N/A,Elektrik,Merkezi,Daire,Beşiktaş,5 Yaşında
+99.000.000,2 + 1,2,/ 165 m2,Merkezi (Pay Ölçer),3,Residence,Beşiktaş,15. Kat
+55.000.000,4 + 1,3,/ 230 m2,Merkezi (Pay Ölçer),8,Residence,Beşiktaş,15. Kat
+13.500.000,1 + 1,1,/ 80 m2,Merkezi (Pay Ölçer),4,Residence,Beşiktaş,17. Kat
+16.500.000,1 + 1,1,/ 100 m2,Merkezi (Pay Ölçer),10,Residence,Şişli,12. Kat
+22.000.000,1 + 1,2,/ 120 m2,Merkezi,2,Daire,Şişli,20. Kat
+12.000.000,1 + 1,1,/ 85 m2,Merkezi (Pay Ölçer),10,Residence,Beşiktaş,4. Kat
+125.000.000,3 + 1,3,/ 220 m2,Merkezi (Pay Ölçer),12,Residence,Beşiktaş,7. Kat
+110.500.000,2 + 1,2,/ 165 m2,Merkezi (Pay Ölçer),18,Residence,Şişli,21 ve üzeri
+90.000.000,2 + 1,2,/ 140 m2,Merkezi (Pay Ölçer),4,Residence,Beşiktaş,18. Kat
+78.000.000,3 + 1,3,/ 160 m2,Merkezi (Pay Ölçer),Sıfır,Residence,Beşiktaş,21 ve üzeri
+13.500.000,1 + 1,1,/ 60 m2,Merkezi (Pay Ölçer),15,Residence,Beşiktaş,12. Kat
+70.000.000,4 + 1,3,/ 280 m2,Merkezi (Pay Ölçer),15,Residence,Beşiktaş,21 ve üzeri
+99.000.000,2 + 1,2,/ 150 m2,Merkezi (Pay Ölçer),7,Residence,Beşiktaş,10. Kat
+12.000.000,1 + 1,1,/ 70 m2,Merkezi (Pay Ölçer),10,Residence,Beşiktaş,3. Kat
+44.000.000,4 + 1,2,/ 245 m2,Merkezi (Pay Ölçer),8,Daire,Beşiktaş,15. Kat
+2.399.000,1 + 0,1,/ 97 m2,Kombi,4,Daire,Esenyurt,Ara Kat
+2.650.000,3 + 1,1,/ 126 m2,Kombi,2,Daire,Esenyurt,Yüksek Giriş
+4.650.000,3 + 1,2,/ 110 m2,Kombi,8,Daire,Büyükçekmece,Yüksek Giriş
+6.750.000,1,N/A,N/A,Doğalgaz,Kombi,Daire,Avcılar,3 Yaşında
+17.500.000,4,N/A,N/A,Kat Mülkiyeti,Uygun,Villa,Başakşehir,Kombi
+13.750.000,4 + 2,3,/ 230 m2,Kombi,5,Daire,Büyükçekmece,5. Kat
+10.000.000,7 + 3,3,/ 280 m2,Doğalgaz,Kombi,Müstakil Ev,Beykoz,35 Yaşında
+31.500.000,2 + 1,1,/ 90 m2,Doğalgaz,Kombi,Müstakil Ev,Beykoz,10 Yaşında
+6.490.000,1,N/A,N/A,Uygun değil,Kombi,Daire,Bakırköy,26 Yaşında
+2.475.000,1,N/A,N/A,Uygun,Kombi,Daire,Esenyurt,10 Yaşında
+3.950.000,2 + 2,2,/ 80 m2,Kombi,5,Daire,Kağıthane,Yüksek Giriş
+1.650.000,2 + 1,1,/ 80 m2,Kombi,25,Daire,Kağıthane,Kot 2
+2.395.000,1,N/A,N/A,Uygun,Kombi,Daire,Esenyurt,5 Yaşında
+7.500.000,2 + 1,1,/ 114 m2,Kömür-Odun,Soba,Bina,Büyükçekmece,29 Yaşında

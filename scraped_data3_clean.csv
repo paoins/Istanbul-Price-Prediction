@@ -1,0 +1,251 @@
+price,toilet_count,heating_type,building_age,building_type,neighborhood,floor,bedrooms,living_rooms,size
+2475000.0,1.0,Kombi,9.0,Daire,Beylikdüzü,2.0,2,1,95.0
+1300000.0,1.0,Kombi,2.0,Daire,Esenyurt,-1.0,2,1,105.0
+1375000.0,1.0,Kombi,3.0,Daire,Esenyurt,-1.0,1,1,75.0
+1335000.0,1.0,Kombi,1.0,Daire,Esenyurt,3.0,1,1,65.0
+1575000.0,1.0,Kombi,1.0,Daire,Esenyurt,3.0,2,1,85.0
+985000.0,1.0,Kombi,9.0,Daire,Esenyurt,3.0,1,0,40.0
+2270000.0,1.0,Kombi,7.0,Daire,Beylikdüzü,0.0,2,1,75.0
+15500000.0,2.0,Kombi,9.0,Daire,Üsküdar,99.0,4,1,115.0
+20000000.0,2.0,Yerden Isıtma,9.0,Daire,Üsküdar,99.0,5,2,180.0
+9750000.0,2.0,Kombi,32.0,Daire,Adalar,3.0,3,1,81.0
+4350000.0,1.0,Kombi,25.0,Daire,Beylikdüzü,6.0,3,1,132.0
+13750000.0,2.0,Merkezi (Pay Ölçer),9.0,Daire,Kadıköy,11.0,2,1,73.0
+13900000.0,1.0,Kombi,5.0,Daire,Kadıköy,4.0,2,1,75.0
+2600000.0,1.0,Kombi,26.0,Daire,Bağcılar,0.0,2,1,90.0
+11850000.0,2.0,Merkezi (Pay Ölçer),3.0,Daire,Zeytinburnu,5.0,3,1,100.0
+1370000.0,1.0,Kombi,8.0,Daire,Beylikdüzü,6.0,1,1,85.0
+7500000.0,1.0,Kombi,38.0,Daire,Kadıköy,4.0,3,1,100.0
+1579999.0,2.0,Uygun,9.0,Daire,Esenyurt,3.0,2,0,105.0
+2884000.0,2.0,Uygun,9.0,Daire,Beylikdüzü,3.0,1,0,105.0
+4790000.0,2.0,Uygun değil,9.0,Daire,Beylikdüzü,3.0,1,0,105.0
+5045000.0,2.0,Uygun değil,9.0,Daire,Beylikdüzü,3.0,2,0,105.0
+3399000.0,1.0,Kombi,9.0,Daire,Beylikdüzü,2.0,2,1,100.0
+3190000.0,1.0,Kombi,9.0,Daire,Esenyurt,0.0,5,1,185.0
+2580000.0,1.0,Kombi,2.0,Daire,Esenyurt,0.0,2,1,90.0
+9799000.0,2.0,Kombi,5.0,Daire,Beylikdüzü,2.0,3,1,135.0
+999000.0,1.0,Kombi,2.0,Daire,Esenyurt,-1.0,2,1,100.0
+7599999.0,2.0,Kombi,9.0,Daire,Beylikdüzü,3.0,3,2,255.0
+1249999.0,2.0,Uygun,9.0,Daire,Esenyurt,3.0,1,0,105.0
+49750000.0,6.0,Doğalgaz,9.0,Villa,Büyükçekmece,3.0,6,3,400.0
+4050000.0,2.0,Uygun,9.0,Residence,Esenyurt,3.0,2,0,105.0
+1149000.0,2.0,Kombi,3.0,Daire,Esenyurt,-1.0,2,1,100.0
+8200000.0,1.0,Kombi,38.0,Daire,Adalar,2.0,3,1,63.0
+3899999.0,1.0,Kombi,4.0,Daire,Beylikdüzü,3.0,2,1,95.0
+12800000.0,2.0,Uygun değil,9.0,Daire,Küçükçekmece,3.0,2,0,105.0
+19500000.0,1.0,Merkezi (Pay Ölçer),5.0,Residence,Şişli,3.0,1,1,83.0
+3500000.0,2.0,Uygun,9.0,Daire,Pendik,3.0,1,0,105.0
+123500000.0,5.0,Yerden Isıtma,9.0,Daire,Üsküdar,-1.0,5,1,290.0
+1259999.0,1.0,Kombi,3.0,Daire,Esenyurt,-1.0,2,1,100.0
+2499999.0,1.0,Kombi,9.0,Daire,Esenyurt,2.0,2,1,105.0
+2975000.0,2.0,Uygun,9.0,Daire,Esenyurt,3.0,1,0,105.0
+9800000.0,2.0,Uygun,9.0,Daire,Pendik,3.0,2,0,105.0
+7750000.0,2.0,Uygun,9.0,Daire,Şile,3.0,2,0,105.0
+19500000.0,2.0,Uygun,9.0,Villa,Şile,3.0,3,0,105.0
+14950000.0,2.0,Yerden Isıtma,9.0,Daire,Üsküdar,1.0,3,1,110.0
+2699999.0,1.0,Kombi,9.0,Daire,Beylikdüzü,2.0,2,1,105.0
+3125000.0,1.0,Kombi,28.0,Daire,Zeytinburnu,3.0,2,1,85.0
+20500000.0,2.0,Merkezi (Pay Ölçer),35.0,Daire,Beşiktaş,3.0,3,1,140.0
+3000000.0,2.0,Kombi,9.0,Daire,Beylikdüzü,2.0,2,1,105.0
+2349999.0,2.0,Uygun,9.0,Daire,Beylikdüzü,3.0,1,0,105.0
+3599000.0,2.0,Kombi,9.0,Daire,Beylikdüzü,3.0,3,1,185.0
+2199999.0,1.0,Kombi,9.0,Daire,Beylikdüzü,3.0,2,1,110.0
+3899999.0,2.0,Kombi,9.0,Daire,Beylikdüzü,1.0,3,1,145.0
+25000000.0,2.0,Merkezi,31.0,Daire,Bakırköy,2.0,3,1,140.0
+19200000.0,2.0,Merkezi,10.0,Daire,Bakırköy,-1.0,3,1,120.0
+3500000.0,1.0,Kombi,31.0,Daire,Şişli,99.0,2,1,108.0
+5249000.0,3.0,Kombi,9.0,Daire,Beylikdüzü,5.0,5,2,215.0
+5649000.0,1.0,Kombi,9.0,Daire,Beylikdüzü,4.0,3,2,220.0
+3399900.0,2.0,Kombi,7.0,Daire,Esenyurt,2.0,2,1,105.0
+7950000.0,1.0,Kombi,15.0,Daire,Maltepe,6.0,1,1,70.0
+49500000.0,3.0,Doğalgaz,9.0,Villa,Beşiktaş,3.0,5,2,270.0
+35000000.0,2.0,Uygun,9.0,Daire,Beşiktaş,3.0,2,0,105.0
+79000000.0,3.0,Yerden Isıtma,31.0,Daire,Beşiktaş,6.0,5,1,250.0
+5450000.0,1.0,Kombi,1.0,Daire,Beylikdüzü,4.0,2,1,100.0
+76000000.0,2.0,Uygun değil,9.0,Villa,Büyükçekmece,3.0,5,0,105.0
+2370000.0,2.0,Uygun,9.0,Daire,Beylikdüzü,3.0,3,0,105.0
+2999000.0,1.0,Kombi,5.0,Daire,Esenyurt,2.0,3,1,120.0
+4749000.0,2.0,Kombi,9.0,Daire,Beylikdüzü,4.0,3,2,175.0
+10500000.0,2.0,Doğalgaz,9.0,Daire,Adalar,3.0,2,0,105.0
+2500000.0,2.0,Uygun,9.0,Daire,Esenyurt,3.0,1,0,105.0
+18750000.0,1.0,Kombi,5.0,Daire,Kadıköy,9.0,3,1,125.0
+17900000.0,4.0,Isıtma Yok,34.0,Daire,Adalar,3.0,4,1,191.0
+8900000.0,1.0,Merkezi,15.0,Daire,Kadıköy,6.0,1,1,46.0
+1700000.0,2.0,Uygun değil,9.0,Daire,Avcılar,3.0,1,0,105.0
+61000000.0,3.0,Yerden Isıtma,9.0,Daire,Üsküdar,1.0,4,1,196.0
+45000000.0,2.0,Doğalgaz,9.0,Daire,Üsküdar,3.0,2,0,105.0
+44750000.0,2.0,Yerden Isıtma,9.0,Daire,Üsküdar,1.0,3,1,179.0
+88000000.0,6.0,Yerden Isıtma,9.0,Daire,Üsküdar,3.0,5,1,295.0
+38000000.0,2.0,Yerden Isıtma,1.0,Daire,Üsküdar,0.0,2,1,110.0
+3120000.0,3.0,Kat Kaloriferi,10.0,Daire,Esenyurt,3.0,3,1,125.0
+4290000.0,1.0,Kombi,7.0,Daire,Bahçelievler,3.0,2,1,90.0
+14500000.0,3.0,Kombi,9.0,Daire,Maltepe,4.0,4,2,153.0
+13900000.0,2.0,Kombi,9.0,Daire,Maltepe,4.0,4,1,126.0
+12000000.0,3.0,Kombi,12.0,Daire,Maltepe,4.0,5,2,178.0
+8950000.0,2.0,Kombi,24.0,Daire,Maltepe,1.0,3,1,128.0
+4650000.0,2.0,Uygun,9.0,Daire,Pendik,3.0,1,0,105.0
+5250000.0,2.0,Uygun,9.0,Daire,Kadıköy,3.0,1,0,105.0
+1650000.0,1.0,Kombi,6.0,Daire,Arnavutköy,-1.0,2,1,70.0
+2250000.0,1.0,Kombi,6.0,Daire,Arnavutköy,0.0,2,1,10.0
+260000000.0,2.0,Kombi,50.0,Residence,Beşiktaş,4.0,3,2,271.0
+34000000.0,2.0,Kombi,35.0,Daire,Beşiktaş,2.0,3,1,170.0
+82000000.0,2.0,Merkezi (Pay Ölçer),2.0,Residence,Beşiktaş,6.0,2,1,150.0
+91000000.0,3.0,Merkezi (Pay Ölçer),9.0,Residence,Beşiktaş,3.0,3,1,160.0
+80000000.0,3.0,Merkezi (Pay Ölçer),15.0,Residence,Beşiktaş,3.0,3,1,280.0
+12300000.0,1.0,Merkezi (Pay Ölçer),8.0,Residence,Beşiktaş,4.0,1,1,76.0
+85000000.0,2.0,Merkezi (Pay Ölçer),6.0,Residence,Beşiktaş,12.0,2,1,141.0
+80000000.0,2.0,Merkezi (Pay Ölçer),15.0,Residence,Beşiktaş,20.0,2,1,350.0
+8500000.0,2.0,Uygun,9.0,Daire,Kadıköy,3.0,1,0,105.0
+95000000.0,2.0,Merkezi (Pay Ölçer),6.0,Residence,Beşiktaş,8.0,2,1,130.0
+5950000.0,1.0,Kombi,11.0,Daire,Ataşehir,0.0,2,1,70.0
+8050000.0,2.0,Uygun,9.0,Daire,Bahçelievler,3.0,3,0,105.0
+6500000.0,2.0,Kombi,9.0,Daire,Büyükçekmece,3.0,3,1,145.0
+5575000.0,2.0,Uygun,9.0,Daire,Bahçelievler,3.0,1,0,105.0
+8350000.0,2.0,Kombi,9.0,Daire,Maltepe,4.0,2,1,90.0
+6500000.0,2.0,Kombi,11.0,Daire,Üsküdar,2.0,2,1,125.0
+58500000.0,3.0,Doğalgaz,9.0,Villa,Sarıyer,3.0,5,12,350.0
+46350000.0,3.0,Doğalgaz,9.0,Villa,Sarıyer,3.0,4,2,288.0
+28500000.0,2.0,Yerden Isıtma,12.0,Daire,Sarıyer,-1.0,3,1,150.0
+5600000.0,2.0,Uygun,9.0,Daire,Eyüpsultan,3.0,1,0,105.0
+19250000.0,2.0,Kombi,4.0,Daire,Kadıköy,3.0,3,1,88.0
+7300000.0,2.0,Merkezi (Pay Ölçer),5.0,Residence,Kağıthane,4.0,2,1,80.0
+3330000.0,1.0,Kombi,6.0,Daire,Şişli,1.0,2,1,65.0
+10200000.0,1.0,Doğalgaz,9.0,Müstakil Ev,Beykoz,3.0,3,1,90.0
+3350000.0,1.0,Kombi,9.0,Daire,Esenyurt,3.0,2,1,100.0
+2900000.0,2.0,Kombi,7.0,Daire,Esenyurt,3.0,2,1,80.0
+2050000.0,1.0,Kombi,15.0,Daire,Gaziosmanpaşa,-1.0,2,1,85.0
+71000000.0,4.0,Doğalgaz,9.0,Villa,Üsküdar,3.0,8,2,450.0
+4250000.0,1.0,Kombi,15.0,Daire,Esenyurt,16.0,2,1,128.0
+2350000.0,1.0,Kombi,15.0,Daire,Esenyurt,3.0,1,1,65.0
+3675000.0,1.0,Kombi,30.0,Daire,Zeytinburnu,3.0,2,1,88.0
+1800000.0,1.0,Kombi,40.0,Daire,Fatih,0.0,1,1,70.0
+4750000.0,2.0,Kombi,15.0,Daire,Büyükçekmece,2.0,3,1,140.0
+6750000.0,1.0,Kombi,9.0,Daire,Maltepe,-1.0,2,1,75.0
+3975000.0,2.0,Uygun değil,9.0,Daire,Beykoz,3.0,1,0,105.0
+12000000.0,2.0,Uygun,9.0,Daire,Başakşehir,3.0,3,0,105.0
+15000000.0,2.0,Uygun,9.0,Daire,Beylikdüzü,3.0,2,0,105.0
+8300000.0,2.0,Kombi,11.0,Daire,Eyüpsultan,3.0,3,1,129.0
+7900000.0,1.0,Yerden Isıtma,6.0,Daire,Eyüpsultan,3.0,1,1,61.0
+8250000.0,1.0,Kombi,20.0,Daire,Eyüpsultan,3.0,3,1,120.0
+14650000.0,1.0,Merkezi,11.0,Residence,Ataşehir,3.0,1,1,68.0
+2200000.0,1.0,Kombi,51.0,Daire,Küçükçekmece,3.0,3,1,110.0
+22000000.0,2.0,Merkezi (Pay Ölçer),50.0,Daire,Şişli,3.0,4,1,165.0
+3975000.0,1.0,Kombi,7.0,Daire,Maltepe,2.0,1,1,55.0
+2800000.0,1.0,Kombi,17.0,Daire,Ümraniye,-1.0,2,1,72.0
+3975000.0,1.0,Kombi,7.0,Daire,Maltepe,2.0,1,1,55.0
+2800000.0,1.0,Kombi,17.0,Daire,Ümraniye,-1.0,2,1,72.0
+18500000.0,2.0,Kombi,9.0,Daire,Kadıköy,8.0,3,1,90.0
+8500000.0,3.0,Kombi,9.0,Daire,Pendik,99.0,5,2,220.0
+3250000.0,2.0,Kombi,14.0,Daire,Pendik,-1.0,2,1,100.0
+6950000.0,2.0,Kombi,27.0,Daire,Maltepe,2.0,3,1,120.0
+3850000.0,1.0,Kombi,7.0,Daire,Sancaktepe,2.0,2,1,70.0
+5200000.0,1.0,Kombi,40.0,Daire,Bahçelievler,1.0,2,1,82.0
+5850000.0,2.0,Uygun,9.0,Daire,Sultanbeyli,3.0,3,0,105.0
+4350000.0,1.0,Kombi,14.0,Daire,Ataşehir,0.0,2,1,80.0
+4500000.0,1.0,Kombi,9.0,Daire,Sultanbeyli,3.0,2,1,80.0
+7500000.0,2.0,Uygun,9.0,Daire,Kadıköy,3.0,2,0,105.0
+9750000.0,2.0,Uygun,9.0,Villa,Şile,3.0,3,0,105.0
+5500000.0,2.0,Uygun,9.0,Daire,Şile,3.0,1,0,105.0
+5950000.0,2.0,Uygun,9.0,Daire,Şile,3.0,2,0,105.0
+4950000.0,2.0,Uygun,9.0,Daire,Şile,3.0,1,0,105.0
+6400000.0,2.0,Uygun,9.0,Villa,Şile,3.0,3,0,105.0
+9250000.0,2.0,Uygun,9.0,Müstakil Ev,Şile,3.0,3,0,105.0
+5850000.0,2.0,Uygun,9.0,Daire,Şile,3.0,2,0,105.0
+9250000.0,2.0,Uygun,9.0,Müstakil Ev,Şile,3.0,3,0,105.0
+5850000.0,2.0,Uygun,9.0,Daire,Şile,3.0,2,0,105.0
+7250000.0,2.0,Uygun,9.0,Daire,Şile,3.0,2,0,105.0
+14200000.0,2.0,Uygun,9.0,Villa,Şile,3.0,3,0,105.0
+3700000.0,2.0,Uygun değil,9.0,Daire,Esenyurt,3.0,2,0,105.0
+18500000.0,2.0,Uygun değil,9.0,Villa,Şile,3.0,6,0,105.0
+6575000.0,2.0,Uygun,9.0,Daire,Şile,3.0,2,0,105.0
+4000000.0,2.0,Uygun değil,9.0,Daire,Şile,3.0,1,0,105.0
+5900000.0,2.0,Uygun,9.0,Daire,Şile,3.0,2,0,105.0
+6500000.0,2.0,Uygun değil,9.0,Daire,Şile,3.0,1,0,105.0
+5000000.0,2.0,Uygun,9.0,Daire,Şile,3.0,1,0,105.0
+3600000.0,2.0,Uygun,9.0,Daire,Şile,3.0,1,0,105.0
+14450000.0,2.0,Uygun,9.0,Villa,Şile,3.0,4,0,105.0
+7500000.0,2.0,Uygun değil,9.0,Daire,Şile,3.0,2,0,105.0
+47000000.0,5.0,Doğalgaz,9.0,Bina,Beşiktaş,3.0,12,5,256.0
+2400000.0,1.0,Kombi,15.0,Daire,Bahçelievler,0.0,2,1,80.0
+20500000.0,2.0,Merkezi (Pay Ölçer),35.0,Daire,Beşiktaş,3.0,3,1,135.0
+5200000.0,1.0,Kombi,9.0,Daire,Maltepe,-2.0,2,1,70.0
+16000000.0,2.0,Kombi,9.0,Daire,Kadıköy,9.0,3,1,105.0
+20500000.0,2.0,Merkezi (Pay Ölçer),35.0,Daire,Beşiktaş,3.0,3,1,135.0
+5200000.0,1.0,Kombi,9.0,Daire,Maltepe,-2.0,2,1,70.0
+16000000.0,2.0,Kombi,9.0,Daire,Kadıköy,9.0,3,1,105.0
+11750000.0,1.0,Yerden Isıtma,9.0,Daire,Üsküdar,2.0,2,1,90.0
+53000000.0,5.0,Doğalgaz,9.0,Villa,Beykoz,3.0,5,2,400.0
+28000000.0,1.0,Merkezi,10.0,Residence,Bakırköy,8.0,2,0,130.0
+13000000.0,1.0,Merkezi,31.0,Daire,Bakırköy,5.0,3,1,115.0
+10900000.0,2.0,Merkezi,50.0,Daire,Şişli,3.0,3,1,140.0
+2080000.0,1.0,Kombi,25.0,Daire,Sultanbeyli,1.0,2,1,100.0
+3900000.0,1.0,Kombi,10.0,Daire,Kağıthane,0.0,2,1,80.0
+6750000.0,1.0,Kombi,4.0,Daire,Beşiktaş,3.0,2,1,65.0
+3450000.0,1.0,Kombi,30.0,Daire,Şişli,3.0,2,1,70.0
+5500000.0,1.0,Kombi,15.0,Daire,Eyüpsultan,2.0,2,1,80.0
+3800000.0,1.0,Kombi,5.0,Daire,Eyüpsultan,0.0,1,1,60.0
+23950000.0,2.0,Kombi,9.0,Daire,Kadıköy,3.0,3,1,90.0
+17750000.0,2.0,Merkezi (Pay Ölçer),4.0,Daire,Kadıköy,4.0,3,1,100.0
+7750000.0,1.0,Kombi,9.0,Daire,Kadıköy,0.0,1,1,47.0
+8750000.0,2.0,Uygun,9.0,Daire,Bakırköy,3.0,1,0,105.0
+3750000.0,2.0,Uygun,9.0,Daire,Arnavutköy,3.0,1,0,105.0
+3750000.0,2.0,Uygun,9.0,Daire,Arnavutköy,3.0,1,0,105.0
+2000000.0,2.0,Uygun değil,9.0,Daire,Arnavutköy,3.0,1,0,105.0
+9750000.0,1.0,Kombi,9.0,Residence,Beykoz,0.0,2,1,70.0
+7500000.0,1.0,Kombi,9.0,Daire,Maltepe,1.0,2,1,78.0
+11000000.0,3.0,Kombi,10.0,Daire,Maltepe,5.0,4,2,180.0
+5850000.0,1.0,Merkezi (Pay Ölçer),10.0,Daire,Maltepe,0.0,2,1,87.0
+75000000.0,2.0,Merkezi (Pay Ölçer),15.0,Residence,Beşiktaş,3.0,2,1,140.0
+14000000.0,1.0,Kombi,8.0,Daire,Kadıköy,7.0,3,1,94.0
+2400000.0,2.0,Doğalgaz,9.0,Daire,Büyükçekmece,3.0,1,0,105.0
+8950000.0,1.0,Kombi,19.0,Daire,Üsküdar,1.0,4,1,165.0
+5100000.0,2.0,Doğalgaz,9.0,Daire,Üsküdar,3.0,1,0,105.0
+17000000.0,2.0,Merkezi (Pay Ölçer),9.0,Residence,Şişli,9.0,2,1,80.0
+17500000.0,2.0,Merkezi (Pay Ölçer),1.0,Residence,Şişli,8.0,2,1,80.0
+8000000.0,1.0,Kombi,5.0,Daire,Şişli,2.0,2,1,80.0
+81500000.0,2.0,Merkezi (Pay Ölçer),4.0,Residence,Beşiktaş,12.0,2,1,120.0
+32000000.0,2.0,Merkezi (Pay Ölçer),9.0,Residence,Şişli,4.0,2,1,100.0
+17000000.0,1.0,Merkezi (Pay Ölçer),9.0,Residence,Şişli,3.0,1,1,60.0
+23000000.0,2.0,Merkezi (Pay Ölçer),2.0,Residence,Şişli,3.0,2,1,110.0
+21250000.0,2.0,Merkezi (Pay Ölçer),3.0,Residence,Şişli,9.0,2,1,80.0
+26000000.0,2.0,Merkezi (Pay Ölçer),2.0,Residence,Şişli,3.0,2,1,85.0
+54000000.0,3.0,Merkezi (Pay Ölçer),9.0,Residence,Beşiktaş,6.0,3,1,212.0
+68000000.0,3.0,Merkezi (Pay Ölçer),15.0,Residence,Beşiktaş,3.0,4,1,280.0
+85000000.0,2.0,Merkezi (Pay Ölçer),6.0,Residence,Beşiktaş,3.0,2,1,130.0
+115000000.0,4.0,Merkezi (Pay Ölçer),10.0,Daire,Beşiktaş,18.0,4,1,370.0
+165000000.0,3.0,Merkezi (Pay Ölçer),6.0,Residence,Beşiktaş,9.0,3,1,230.0
+160000000.0,4.0,Merkezi (Pay Ölçer),5.0,Residence,Beşiktaş,5.0,4,1,223.0
+8500000.0,2.0,Kombi,9.0,Daire,Maltepe,4.0,4,1,120.0
+3650000.0,1.0,Kombi,28.0,Daire,Maltepe,11.0,3,1,110.0
+12250000.0,1.0,Kombi,6.0,Daire,Maltepe,4.0,3,1,115.0
+6950000.0,1.0,Kombi,6.0,Daire,Maltepe,4.0,2,1,80.0
+85000000.0,2.0,Elektrik,9.0,Daire,Beşiktaş,3.0,2,0,105.0
+99000000.0,2.0,Merkezi (Pay Ölçer),3.0,Residence,Beşiktaş,15.0,2,1,165.0
+55000000.0,3.0,Merkezi (Pay Ölçer),8.0,Residence,Beşiktaş,15.0,4,1,230.0
+13500000.0,1.0,Merkezi (Pay Ölçer),4.0,Residence,Beşiktaş,17.0,1,1,80.0
+16500000.0,1.0,Merkezi (Pay Ölçer),10.0,Residence,Şişli,12.0,1,1,100.0
+22000000.0,2.0,Merkezi,2.0,Daire,Şişli,20.0,1,1,120.0
+12000000.0,1.0,Merkezi (Pay Ölçer),10.0,Residence,Beşiktaş,4.0,1,1,85.0
+125000000.0,3.0,Merkezi (Pay Ölçer),12.0,Residence,Beşiktaş,7.0,3,1,220.0
+110500000.0,2.0,Merkezi (Pay Ölçer),18.0,Residence,Şişli,3.0,2,1,165.0
+90000000.0,2.0,Merkezi (Pay Ölçer),4.0,Residence,Beşiktaş,18.0,2,1,140.0
+78000000.0,3.0,Merkezi (Pay Ölçer),9.0,Residence,Beşiktaş,3.0,3,1,160.0
+13500000.0,1.0,Merkezi (Pay Ölçer),15.0,Residence,Beşiktaş,12.0,1,1,60.0
+70000000.0,3.0,Merkezi (Pay Ölçer),15.0,Residence,Beşiktaş,3.0,4,1,280.0
+99000000.0,2.0,Merkezi (Pay Ölçer),7.0,Residence,Beşiktaş,10.0,2,1,150.0
+12000000.0,1.0,Merkezi (Pay Ölçer),10.0,Residence,Beşiktaş,3.0,1,1,70.0
+44000000.0,2.0,Merkezi (Pay Ölçer),8.0,Daire,Beşiktaş,15.0,4,1,245.0
+2399000.0,1.0,Kombi,4.0,Daire,Esenyurt,3.0,1,0,97.0
+2650000.0,1.0,Kombi,2.0,Daire,Esenyurt,0.0,3,1,126.0
+4650000.0,2.0,Kombi,8.0,Daire,Büyükçekmece,0.0,3,1,110.0
+6750000.0,2.0,Doğalgaz,9.0,Daire,Avcılar,3.0,1,0,105.0
+17500000.0,2.0,Kat Mülkiyeti,9.0,Villa,Başakşehir,3.0,4,0,105.0
+13750000.0,3.0,Kombi,5.0,Daire,Büyükçekmece,5.0,4,2,230.0
+10000000.0,3.0,Doğalgaz,9.0,Müstakil Ev,Beykoz,3.0,7,3,280.0
+31500000.0,1.0,Doğalgaz,9.0,Müstakil Ev,Beykoz,3.0,2,1,90.0
+6490000.0,2.0,Uygun değil,9.0,Daire,Bakırköy,3.0,1,0,105.0
+2475000.0,2.0,Uygun,9.0,Daire,Esenyurt,3.0,1,0,105.0
+3950000.0,2.0,Kombi,5.0,Daire,Kağıthane,0.0,2,2,80.0
+1650000.0,1.0,Kombi,25.0,Daire,Kağıthane,-2.0,2,1,80.0
+2395000.0,2.0,Uygun,9.0,Daire,Esenyurt,3.0,1,0,105.0
+7500000.0,1.0,Kömür-Odun,9.0,Bina,Büyükçekmece,3.0,2,1,114.0
