@@ -1,0 +1,6 @@
+streamlit
+pandas
+joblib
+folium
+branca
+scikit-learn
